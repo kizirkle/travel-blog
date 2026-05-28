@@ -84,12 +84,12 @@ Enter your password when prompted
 ## Website Link
 💻
 
-https://guarded-plateau-06638-3f412fce1c4c.herokuapp.com/
+https://voyage-d71d026c4a0e.herokuapp.com/
 
 ## Contributing
 ✉️ Contact us with any questions ❓: 
 
- [Kurtis Pullman](https://github.com/RuckusEnjoyer)
+ [Kurtis Zirkle](https://github.com/kizirkle)
 
  [David Caldarone](https://github.com/caldardn)
  
