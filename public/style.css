@@ -51,11 +51,13 @@ img{
     cursor: pointer;
     transition: all 300ms ease;
     font-size: 0.9rem;
+    text-align:center;
 }
 
 .btn-create {
     background: black;
    color: white;
+   text-align:center;
 }
     
 .text-bold{
@@ -74,6 +76,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    text-align:center;
  }
  .leaf {
     color: antiquewhite;
@@ -268,18 +271,31 @@ border-radius: 3%;
     text-align: center;
 }
 
+.form-part{
+    display: flex;
+    flex-direction:row;
+    align-items:baseline;
+    justify-content: space-between;
+    width:50vw;
+}
 .form-group{
+    display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items:center;
+    width:50vw;
 }
 .form-input{
-    width: 42vw;
+    max-width: 40vw;
+    flex-grow:1;
     height: 5vh;
     margin: 15px;
     border: 1px solid #000;
 }
 #blog-content{
     height: 15vh;
+}
+.login-signup-color{
+    color: brown;
 }
 .btn{
     background-color:  rgb(90, 87, 87);
