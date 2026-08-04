@@ -284,6 +284,13 @@ border-radius: 3%;
     align-items:center;
     width:50vw;
 }
+
+.blog-form-part{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    
+}
 .form-input{
     max-width: 40vw;
     flex-grow:1;
